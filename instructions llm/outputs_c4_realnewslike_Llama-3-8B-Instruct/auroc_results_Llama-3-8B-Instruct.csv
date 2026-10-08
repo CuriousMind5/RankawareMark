@@ -1,0 +1,6 @@
+attack,method,negative_scheme,tpr_at_5_fpr,actual_fpr,precision,f1_at_5,auroc,tau,tp,fp,fn,tn,n_pos,n_neg
+No Attack,KGW,vanilla_kgw,0.980000,0.052000,0.949612,0.964567,0.994208,2.286190,490,26,10,474,500,500
+No Attack,SWEET,vanilla_sweet,0.986000,0.050000,0.951737,0.968566,0.995110,2.240735,493,25,7,475,500,500
+No Attack,Unigram,vanilla_unigram,0.972000,0.050000,0.951076,0.961424,0.994258,-0.040684,486,25,14,475,500,500
+No Attack,EWD,vanilla_ewd,0.994000,0.050000,0.952107,0.972603,0.998128,2.229406,497,25,3,475,500,500
+No Attack,Rank-Aware,vanilla_rankaware,1.000000,0.050000,0.952381,0.975610,1.000000,1.660351,500,25,0,475,500,500

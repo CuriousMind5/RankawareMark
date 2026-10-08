@@ -1,0 +1,5 @@
+model,variant,entropy_tau,positive_scheme,negative_scheme,tpr_at_5_fpr,actual_fpr,precision,recall,f1_at_5_fpr,auroc,threshold_at_5_fpr,tp,fp,fn,tn,n_pos,n_neg
+OPT-2.7B,Rank-Aware with entropy,0.9,rankaware_with_entropy_tau0p9,vanilla_with_entropy_tau0p9,1.000000,0.050100,0.952290,1.000000,0.975562,0.999996,1.707104,499,25,0,474,499,499
+OPT-2.7B,Rank-Aware without entropy,0.0,rankaware_without_entropy_tau0,vanilla_without_entropy_tau0,0.998000,0.050100,0.952290,0.998000,0.974609,0.999465,1.889178,499,25,1,474,500,499
+OPT-6.7B,Rank-Aware with entropy,0.9,rankaware_with_entropy_tau0p9,vanilla_with_entropy_tau0p9,1.000000,0.050201,0.952290,1.000000,0.975562,0.999988,1.649571,499,25,0,473,499,498
+OPT-6.7B,Rank-Aware without entropy,0.0,rankaware_without_entropy_tau0,vanilla_without_entropy_tau0,0.998000,0.050201,0.952290,0.998000,0.974609,0.999530,1.944139,499,25,1,473,500,498

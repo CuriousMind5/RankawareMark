@@ -1,0 +1,5 @@
+model,variant,entropy_tau,scheme,detector_scheme,source_scheme,label,total,valid,skipped,mean_z,std_z,percent_flagged
+opt-2.7b,with_entropy_tau0p9,0.9,vanilla_with_entropy_tau0p9,rankaware_tau0p9,vanilla,0,500,499,1,-0.122794,1.125380,0.20
+opt-2.7b,with_entropy_tau0p9,0.9,rankaware_with_entropy_tau0p9,rankaware_tau0p9,rankaware,1,500,499,1,14.165181,3.494628,100.00
+opt-2.7b,without_entropy_tau0,0.0,vanilla_without_entropy_tau0,rankaware_tau0,vanilla,0,500,499,1,-0.078722,1.229295,0.20
+opt-2.7b,without_entropy_tau0,0.0,rankaware_without_entropy_tau0,rankaware_tau0,rankaware,1,500,500,0,23.642564,3.028880,99.40
