@@ -76,7 +76,6 @@ The default Rank-Aware configuration is stored in `config/RankAware.json`:
   "r0": 60.0,
   "entropy_tau": 0.9,
   "hash_key": 15485863,
-  "perm_method": "randperm",
   "decay_mode": "inv",
   "z_threshold": 4.0
 }
