@@ -1,4 +1,4 @@
-RankawareMark: Rank-Aware Watermarking for Large Language Models
+# RankawareMark: Rank-Aware Watermarking for Large Language Models
 
 This repository contains the implementation of "Rank-Aware", an entropy-guided, rank-aware text watermarking method for large language models (LLMs). Rank-Aware is the author's proposed method in this repository. The code also includes several baseline watermarking methods for comparison, including KGW, SWEET, Unigram, and EWD.
 
