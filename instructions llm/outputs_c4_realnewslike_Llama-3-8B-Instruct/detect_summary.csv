@@ -1,0 +1,11 @@
+scheme,detector_scheme,source_scheme,label,total,valid,skipped,mean_z,std_z,percent_flagged
+vanilla_kgw,kgw,vanilla,0,500,500,0,0.300665,1.167984,0.00
+kgw,kgw,kgw,1,500,500,0,6.252384,1.493767,93.60
+vanilla_unigram,unigram,vanilla,0,500,500,0,-1.964447,1.090958,0.00
+unigram,unigram,unigram,1,500,500,0,2.914372,1.767842,21.60
+vanilla_sweet,sweet,vanilla,0,500,500,0,0.297509,1.133511,0.00
+sweet,sweet,sweet,1,500,500,0,6.361603,1.523683,94.80
+vanilla_ewd,ewd,vanilla,0,500,500,0,0.239874,1.131178,0.00
+ewd,ewd,ewd,1,500,500,0,7.409637,1.571794,98.20
+vanilla_rankaware,rankaware,vanilla,0,500,500,0,-0.099182,1.051545,0.00
+rankaware,rankaware,rankaware,1,500,500,0,16.801540,2.054487,100.00

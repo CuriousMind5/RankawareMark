@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+*.log
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+*.bin
+dataset/*.json
+dataset/*.jsonl
